@@ -1,0 +1,10 @@
+io\springbootstarter\controller\courses\repository\CourseRepository.class
+io\springbootstarter\controller\HelloController.class
+io\springbootstarter\controller\courses\CourseController.class
+io\springbootstarter\controller\topic\TopicController.class
+io\springbootstarter\controller\topic\TopicService.class
+io\springbootstarter\controller\topic\repository\TopicRepository.class
+io\springbootstarter\controller\topic\Topic.class
+io\springbootstarter\controller\courses\CourseService.class
+io\springbootstarter\CourseApiApp.class
+io\springbootstarter\controller\courses\Course.class
