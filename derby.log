@@ -1,6 +1,38 @@
 ----------------------------------------------------------------
-Sun Oct 20 19:01:59 WAT 2019:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016d-ea55-4156-00000e83a6e0 
+Mon Oct 21 12:54:44 WAT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016d-ee2b-65fd-00000cf8cc88 
+on database directory memory:C:\Users\user\IdeaProjects\springBot\testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/user/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=C:\Users\user\IdeaProjects\springBot
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Oct 21 13:22:54 WAT 2019:
+Shutting down instance a816c00e-016d-ee2b-65fd-00000cf8cc88 on database directory memory:C:\Users\user\IdeaProjects\springBot\testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Mon Oct 21 13:22:58 WAT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance ac3880cc-016d-ee2b-65fd-00000cf8cc88 
+on database directory memory:C:\Users\user\IdeaProjects\springBot\testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/user/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=C:\Users\user\IdeaProjects\springBot
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Oct 21 13:22:58 WAT 2019:
+Shutting down instance ac3880cc-016d-ee2b-65fd-00000cf8cc88 on database directory memory:C:\Users\user\IdeaProjects\springBot\testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Mon Oct 21 13:22:58 WAT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 1ec14167-016d-ee2b-65fd-00000cf8cc88 
 on database directory memory:C:\Users\user\IdeaProjects\springBot\testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
 Loaded from file:/C:/Users/user/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
